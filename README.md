@@ -1,5 +1,5 @@
-# 💫 About Me:
- I’m currently working on MERN stack and backend projects,<br> including a Food Waste Reduction & Donation Platform, <br>while actively practicing DSA in Java. <br> I’m learning advanced DSA, React, Python basics, and database optimization. <br>I’m open to collaborating on full-stack, open-source, and real-world problem-solving projects. <br> I’m looking for help with system design and writing scalable, production-ready code. <br>Ask me about Java, DSA, MERN stack, and backend development. <br>I balance coding, gym, and late-night debugging.
+# About Me:
+I’m currently working on MERN stack and backend projects, <br>while actively practicing DSA in Java. <br> I’m learning advanced DSA, React, Python basics, and database optimization. <br>I’m open to collaborating on full-stack, open-source, and real-world problem-solving projects.
 
 
 ## 🌐 Socials:
