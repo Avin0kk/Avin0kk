@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working in SITA as an intern, making full stack projects, learning new technologies.
+wanna be employed so bad ISTG
 
 
 ## 🌐 Socials:
