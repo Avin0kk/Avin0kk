@@ -1,5 +1,5 @@
 # 💫 About Me:
-wanna be employed so bad ISTG
+job dilado
 
 
 ## 🌐 Socials:
